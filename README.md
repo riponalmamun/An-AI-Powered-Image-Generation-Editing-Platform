@@ -417,6 +417,6 @@ in the Software without restriction...
 
 **⭐ Star this repo if you find it useful!**
 
-Made with ❤️ by [Md Ripon Al Mamun]
+Made with ❤️ by Md Ripon Al Mamun
 
 </div>
